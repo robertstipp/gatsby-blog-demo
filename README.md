@@ -21,7 +21,7 @@ yarn install
 Add an `.env` file containing the read-only API token of your DatoCMS site:
 
 ```
-echo 'DATO_API_TOKEN=abc123' >> .env
+echo 'DATO_API_TOKEN=73f13fb70f20155f43a8f34f5f7f7b' >> .env
 ```
 
 Then, to run this website in development mode (with live-reload):
